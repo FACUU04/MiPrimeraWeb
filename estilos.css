@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body{
+    background-color: rgba(217, 218, 212, 0.925);
+    margin: 12px;
+}
+h1{
+    text-align: center;
+}
+
+img.alingtextimgtop{
+    vertical-align: text-top;
+}
